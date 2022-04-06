@@ -1,5 +1,5 @@
-<template>
-  <div class= "login">
+
+  <!-- <div class= "login">
     <h1> login<h1>
       <input type="text" placeholder="email">
       <br>
@@ -11,6 +11,4 @@
     você não tem conta ?
     <a href="">crie uma conta</a>
   </p>
-  </div>
-
-</template>
+  </div> -->

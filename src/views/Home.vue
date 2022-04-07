@@ -17,7 +17,7 @@ import burgerForm from "../components/burgerForm.vue"
   name: 'Home',
   components: {
     banner,
-    burgerForm,
+    burgerForm
     
     // burger
   }

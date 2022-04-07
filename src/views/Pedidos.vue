@@ -10,6 +10,7 @@
 <script>
 import Dashboard from '../components/dashboard'
 
+
 export default {
   name: 'Pedidos',
   components: {

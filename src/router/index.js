@@ -18,7 +18,7 @@ const routes = [
   {
     path:'/Login',
     name:'Login',
-    comoponent: Login,
+    comoponent: Login
     
   }
 

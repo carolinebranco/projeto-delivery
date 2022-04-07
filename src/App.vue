@@ -12,31 +12,20 @@
   import banner from './components/banner.vue';
   import Rodape from './components/footer.vue';
  
-  
-
-
   export default{
     components:{
       navbar,
       banner,
-      Rodape,
-       notTisLoginPage(){
-        return this.$route.name !=="login";
-}
-          
-        
+      Rodape 
     },
     data(){
       return{
         logo_src:"../img/logo.png",
         app_name:"make your burger..",
-
       }
     }
     }
-  
   </script>
-
 <style>
 * {
   font-family: Helvetica;

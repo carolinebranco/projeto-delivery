@@ -31,7 +31,8 @@
         </select>
       </div>
       <div id="opcionais-container" class="input-container">
-         <label id="opcionais-title" for="opcionais"><p>Selecione os opcionais:</p></label>
+         <label id="opcionais-title" for="opcionais">
+           <p>Selecione os opcionais:</p></label>
         <div
           class="checkbox-container opcionais"
           v-for="opcional in opcionaisdata"
@@ -164,11 +165,11 @@ select {
 }
 
 .checkbox-container {
-  display: flex;
+  display:-moz-box;;
   align-items: flex-start;
-  width: 30%;
-  margin-bottom: 40px;
-  font-size: 18px;
+  width: 50%;
+  margin-bottom: -16px;
+  font-size: 20px;
 }
 
 .checkbox-container span,

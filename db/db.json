@@ -3,7 +3,7 @@
     "paes": [
       {
         "id": 1,
-        "tipo": "Italiano Branco"
+        "tipo": "Italiano oBranco"
       },
       {
         "id": 2,
@@ -83,8 +83,7 @@
       "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
-        "Salame",
-        "Cebola roxa"
+ 
       ],
       "status": "Finalizado",
       "id": 4
